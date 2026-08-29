@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Stanish Labs</title>
+  <desc id="desc">Local websites, built and managed by Caleb, for contractors and small businesses in Northwest Pennsylvania.</desc>
+  <rect width="1200" height="630" fill="#111111"/>
+  <rect x="72" y="68" width="14" height="14" fill="#F05A28"/>
+  <text x="104" y="83" fill="#F5F1E8" font-family="Manrope, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="5">STANISH LABS</text>
+  <text x="72" y="270" fill="#F5F1E8" font-family="Manrope, Arial, sans-serif" font-size="58" font-weight="700">Your work is solid.</text>
+  <text x="72" y="336" fill="#F05A28" font-family="Manrope, Arial, sans-serif" font-size="58" font-weight="700">Your website should be too.</text>
+  <text x="76" y="396" fill="#BDB7AC" font-family="Inter, Arial, sans-serif" font-size="24">Local websites for contractors near Reno, Oil City, Franklin &amp; Titusville, PA</text>
+  <g transform="translate(1000 478) scale(0.35)">
+    <path fill="#F5F1E8" d="M0 32C0 14.3 14.3 0 32 0h150v56H68c-8 0-12 4-12 10s4 10 12 10h58c35.3 0 64 28.7 64 64s-28.7 64-64 64H0v-56h112c10 0 16-4 16-12s-6-12-16-12H64C28.7 124 0 95.3 0 60V32z"/>
+    <path fill="#F5F1E8" d="M180 0h56v148h62v56H180z"/>
+    <rect x="316" y="148" width="56" height="56" rx="3" fill="#F05A28"/>
+  </g>
+</svg>
