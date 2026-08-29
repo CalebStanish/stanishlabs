@@ -2,3 +2,7 @@ node_modules/
 dist/
 .DS_Store
 *.local
+
+# Maintained as independent repositories.
+sites/summit-roofing-exteriors/
+sites/keystone-site/
